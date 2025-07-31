@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyushgilada
-- 👀 I’m interested in Software Developement in Python 
-- 🌱 I’m currently learning Data Science
+- 👀 I’m  works as Python Developer 
+- 🌱 I’m currently learning Data Science ,Data Engineering and Data Analytics
 - 📫 You can contact me:- piyushgilada12@gmail.com
 
 <!---
